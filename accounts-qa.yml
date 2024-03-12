@@ -1,5 +1,5 @@
 build:
-  version: "3.8.9"
+  version: "4.5.6"
 accounts:
   message: "Welcome to ZettaBank accounts related QA APIs "
   contactDetails:
